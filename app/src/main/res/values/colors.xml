@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="registerTextColor">#1017e2</color>
+    <color name="addButtonColor">#1017e2</color>
 </resources>

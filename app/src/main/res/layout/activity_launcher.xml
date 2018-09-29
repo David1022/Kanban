@@ -73,11 +73,11 @@
 
             <TextView
                 android:id="@+id/register_text"
-                style="@style/RegisterText"
+                style="@style/RegisterTextStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Register"
-                android:layout_gravity="end"/>
+                android:layout_gravity="end"
+                android:text="Register"/>
 
         </LinearLayout>
     </ScrollView>
