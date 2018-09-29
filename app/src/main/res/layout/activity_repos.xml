@@ -5,6 +5,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.davidmendano.kanban.ReposActivity">
+    tools:context="com.davidmendano.kanban.Repos.ReposActivity">
 
 </android.support.constraint.ConstraintLayout>
