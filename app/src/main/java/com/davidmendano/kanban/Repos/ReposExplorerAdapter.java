@@ -24,7 +24,7 @@ public class ReposExplorerAdapter extends RecyclerView.Adapter {
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int viewType) {
-        View view = inflater.inflate(R.layout.fragment_explore, viewGroup, false);
+        View view = inflater.inflate(R.layout.recycler_item, viewGroup, false);
         return new ReposExplorerHolder(view);
     }
 
